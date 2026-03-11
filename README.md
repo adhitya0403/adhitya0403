@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Full-Stack Developer — Real-Time Web Applications
+<h2>Full-Stack Developer — Real-Time Web Applications</h2>
 
 I build interactive web applications, real-time systems, and scalable backend services using modern JavaScript technologies.
 
