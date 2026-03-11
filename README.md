@@ -1,102 +1,152 @@
 <h1 align="center">Hi 👋, I'm Adhitya</h1>
-<h3 align="center">Full-Stack Developer • Real-Time Web Apps • Interactive Systems</h3>
+<h3 align="center">Full-Stack Developer • Real-Time Systems • Interactive Web Experiences</h3>
 
 <div align="center">
 
-<img src="https://techstack-generator.vercel.app/js-icon.svg" width="55" height="55" />
-<img src="https://techstack-generator.vercel.app/ts-icon.svg" width="55" height="55" />
-<img src="https://techstack-generator.vercel.app/react-icon.svg" width="55" height="55" />
-<img src="https://techstack-generator.vercel.app/python-icon.svg" width="55" height="55" />
-<img src="https://techstack-generator.vercel.app/java-icon.svg" width="55" height="55" />
-<img src="https://techstack-generator.vercel.app/sass-icon.svg" width="55" height="55" />
+<img src="https://techstack-generator.vercel.app/js-icon.svg" width="55" />
+<img src="https://techstack-generator.vercel.app/ts-icon.svg" width="55" />
+<img src="https://techstack-generator.vercel.app/react-icon.svg" width="55" />
+<img src="https://techstack-generator.vercel.app/python-icon.svg" width="55" />
+<img src="https://techstack-generator.vercel.app/java-icon.svg" width="55" />
+<img src="https://techstack-generator.vercel.app/sass-icon.svg" width="55" />
 
 <br>
 
-<img src="https://techstack-generator.vercel.app/docker-icon.svg" width="55" height="55" />
-<img src="https://techstack-generator.vercel.app/aws-icon.svg" width="55" height="55" />
-<img src="https://techstack-generator.vercel.app/nginx-icon.svg" width="55" height="55" />
-<img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="55" height="55" />
-<img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="55" height="55" />
-<img src="https://techstack-generator.vercel.app/graphql-icon.svg" width="55" height="55" />
+<img src="https://techstack-generator.vercel.app/docker-icon.svg" width="55" />
+<img src="https://techstack-generator.vercel.app/aws-icon.svg" width="55" />
+<img src="https://techstack-generator.vercel.app/nginx-icon.svg" width="55" />
+<img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="55" />
+<img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="55" />
+<img src="https://techstack-generator.vercel.app/graphql-icon.svg" width="55" />
 
 </div>
 
----
+<h2 align="left">👋 About</h2>
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+<table align="center" width="100%" cellpadding="16">
+<tr>
 
-### About
+<td width="60%" valign="middle">
 
-- ⚡ Building **interactive web applications and real-time systems**
-- 🧠 Interested in **system design and frontend architecture**
-- 🌐 Portfolio: https://adhitya-portfolio-beige.vercel.app  
-- 📫 Contact: **darshanalaadhitya@gmail.com**
+- 🔭 Building **real-time web applications and interactive systems**
 
-<br>
+- 🌱 Exploring **system design and scalable architectures**
 
-<h3>Featured Projects</h3>
+- 🧪 Experimenting with **3D web experiences using Three.js**
 
-<p>
-🚀 <b>TypeRush</b><br>
-Real-time multiplayer typing platform with synchronized gameplay.<br>
-🔗 <a href="https://github.com/adhitya0403/TypeRush-frontend">GitHub</a> • 
-🌐 <a href="https://type-rush-frontend-beta.vercel.app/">Live Demo</a>
-</p>
+- 💬 Ask me about **frontend architecture and real-time applications**
 
-<p>
-🎮 <b>3D Developer Portfolio</b><br>
-Interactive portfolio built with <b>Blender + Three.js</b>.<br>
-🔗 <a href="https://github.com/adhitya0403/adhitya-portfolio">GitHub</a> • 
-🌐 <a href="https://adhitya-portfolio-beige.vercel.app/">Live Demo</a>
-</p>
+- 🌐 Portfolio : https://adhitya-portfolio-beige.vercel.app
 
-<p>
-🧠 <b>Notify</b><br>
-Task & notes management platform using the MERN stack.<br>
-🔗 <a href="https://github.com/adhitya0403/Notify-Frontend">GitHub</a> • 
-🌐 <a href="https://notify-frontend-seven.vercel.app/">Live Demo</a>
-</p>
+- 📫 Contact : **darshanalaadhitya@gmail.com**
 
----
+</td>
 
-### Connect
+<td width="40%" align="center">
 
-<p align="left">
-<a href="https://www.linkedin.com/in/adhitya0403/" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
-</a>
-</p>
+<img width="260" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
 
----
+</td>
 
-### Tech Stack
+</tr>
+</table>
 
-Frontend  
-<p align="left">
+<h2 align="left">🚀 Featured Projects</h2>
+
+<table align="center" width="100%" cellpadding="16">
+
+<tr>
+<td width="22%"><b>🚀 TypeRush</b></td>
+<td>
+
+⚡ Real-time multiplayer typing platform  
+🎮 Synchronized gameplay
+
+🔗 <a href="https://github.com/adhitya0403/TypeRush-frontend">GitHub</a> • 🌐 <a href="https://type-rush-frontend-beta.vercel.app/">Live Demo</a>
+
+</td>
+</tr>
+
+<tr>
+<td><b>🎮 3D Portfolio</b></td>
+<td>
+
+🌌 Interactive developer environment  
+🧊 Built using Blender + Three.js
+
+🔗 <a href="https://github.com/adhitya0403/adhitya-portfolio">GitHub</a> • 🌐 <a href="https://adhitya-portfolio-beige.vercel.app/">Live Demo</a>
+
+</td>
+</tr>
+
+<tr>
+<td><b>🧠 Notify</b></td>
+<td>
+
+📋 Task & notes management system  
+⚙️ MERN stack architecture
+
+🔗 <a href="https://github.com/adhitya0403/Notify-Frontend">GitHub</a> • 🌐 <a href="https://notify-frontend-seven.vercel.app/">Live Demo</a>
+
+</td>
+</tr>
+
+</table>
+
+<h2 align="left">🧠 Tech Stack</h2>
+
+<table align="center" width="100%" cellpadding="12">
+
+<tr>
+<td width="22%"><b>Frontend</b></td>
+<td>
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,threejs,vite" />
-</p>
+</td>
+</tr>
 
-Backend  
-<p align="left">
+<tr>
+<td><b>Backend</b></td>
+<td>
 <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,spring" />
-</p>
+</td>
+</tr>
 
-Databases  
-<p align="left">
+<tr>
+<td><b>Databases</b></td>
+<td>
 <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis" />
-</p>
+</td>
+</tr>
 
-DevOps & Deployment  
-<p align="left">
+<tr>
+<td><b>DevOps</b></td>
+<td>
 <img src="https://skillicons.dev/icons?i=docker,aws,vercel,netlify,nginx" />
-</p>
+</td>
+</tr>
 
-Tools  
-<p align="left">
+<tr>
+<td><b>Tools</b></td>
+<td>
 <img src="https://skillicons.dev/icons?i=git,github,postman,figma,vscode" />
-</p>
+</td>
+</tr>
 
-Creative / 3D  
-<p align="left">
+<tr>
+<td><b>3D</b></td>
+<td>
 <img src="https://skillicons.dev/icons?i=blender" />
+</td>
+</tr>
+
+</table>
+
+<h2 align="left">🌐 Connect</h2>
+
+<p align="center">
+<a href="https://www.linkedin.com/in/adhitya0403/"><img src="https://img.shields.io/badge/LinkedIn-Adhitya-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+&nbsp;&nbsp;&nbsp;
+<a href="mailto:darshanalaadhitya@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://adhitya-portfolio-beige.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 </p>
