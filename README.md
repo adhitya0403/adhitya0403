@@ -53,40 +53,40 @@
 
 <h2 align="left">🚀 Featured Projects</h2>
 
-<table align="center" width="100%" cellpadding="16">
+<table align="center" width="100%" cellpadding="18">
 
 <tr>
-<td width="22%"><b>🚀 TypeRush</b></td>
-<td>
+<td width="40%" align="center" valign="middle"><b>🚀 TypeRush</b></td>
+<td valign="middle">
 
-⚡ Real-time multiplayer typing platform  
-🎮 Synchronized gameplay
+⚡ Real-time multiplayer typing platform with synchronized gameplay  
+🎮 Designed for live competition and responsive interaction
 
-🔗 <a href="https://github.com/adhitya0403/TypeRush-frontend">GitHub</a> • 🌐 <a href="https://type-rush-frontend-beta.vercel.app/">Live Demo</a>
+🔗 <a href="https://github.com/adhitya0403/TypeRush-frontend">GitHub</a>  •  🌐 <a href="https://type-rush-frontend-beta.vercel.app/">Live Demo</a>
 
 </td>
 </tr>
 
 <tr>
-<td><b>🎮 3D Portfolio</b></td>
-<td>
+<td align="center" valign="middle"><b>🎮 3D Portfolio</b></td>
+<td valign="middle">
 
-🌌 Interactive developer environment  
-🧊 Built using Blender + Three.js
+🌌 Interactive developer portfolio built as a 3D web experience  
+🧊 Blender assets rendered in-browser using Three.js
 
-🔗 <a href="https://github.com/adhitya0403/adhitya-portfolio">GitHub</a> • 🌐 <a href="https://adhitya-portfolio-beige.vercel.app/">Live Demo</a>
+🔗 <a href="https://github.com/adhitya0403/adhitya-portfolio">GitHub</a>  •  🌐 <a href="https://adhitya-portfolio-beige.vercel.app/">Live Demo</a>
 
 </td>
 </tr>
 
 <tr>
-<td><b>🧠 Notify</b></td>
-<td>
+<td align="center" valign="middle"><b>🧠 Notify</b></td>
+<td valign="middle">
 
-📋 Task & notes management system  
-⚙️ MERN stack architecture
+📋 Task and notes management platform with persistent storage  
+⚙️ Built with a modular MERN architecture
 
-🔗 <a href="https://github.com/adhitya0403/Notify-Frontend">GitHub</a> • 🌐 <a href="https://notify-frontend-seven.vercel.app/">Live Demo</a>
+🔗 <a href="https://github.com/adhitya0403/Notify-Frontend">GitHub</a>  •  🌐 <a href="https://notify-frontend-seven.vercel.app/">Live Demo</a>
 
 </td>
 </tr>
