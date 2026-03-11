@@ -2,7 +2,7 @@
 
 Full-Stack Developer focused on building real-time web applications, interactive systems, and scalable backend services.
 
-Work
+#Work
 
 I build full-stack applications using modern JavaScript technologies, with an emphasis on real-time communication, system performance, and interactive user interfaces.
 
