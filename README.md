@@ -62,7 +62,7 @@
 ⚡ Real-time multiplayer typing platform with synchronized gameplay  
 🎮 Designed for live competition and responsive interaction
 
-🔗 <a href="https://github.com/adhitya0403/TypeRush-frontend">GitHub</a>  •  🌐 <a href="https://type-rush-frontend-beta.vercel.app/">Live Demo</a>
+🔗 <a href="https://github.com/adhitya0403/TypeRush-frontend" target="_blank">GitHub</a>  •  🌐 <a href="https://type-rush-frontend-beta.vercel.app/" target="_blank">Live Demo</a>
 
 </td>
 </tr>
@@ -74,7 +74,7 @@
 🌌 Interactive developer portfolio built as a 3D web experience  
 🧊 Blender assets rendered in-browser using Three.js
 
-🔗 <a href="https://github.com/adhitya0403/adhitya-portfolio">GitHub</a>  •  🌐 <a href="https://adhitya-portfolio-beige.vercel.app/">Live Demo</a>
+🔗 <a href="https://github.com/adhitya0403/adhitya-portfolio" target="_blank">GitHub</a>  •  🌐 <a href="https://adhitya-portfolio-beige.vercel.app/" target="_blank">Live Demo</a>
 
 </td>
 </tr>
@@ -86,7 +86,7 @@
 📋 Task and notes management platform with persistent storage  
 ⚙️ Built with a modular MERN architecture
 
-🔗 <a href="https://github.com/adhitya0403/Notify-Frontend">GitHub</a>  •  🌐 <a href="https://notify-frontend-seven.vercel.app/">Live Demo</a>
+🔗 <a href="https://github.com/adhitya0403/Notify-Frontend" target="_blank">GitHub</a>  •  🌐 <a href="https://notify-frontend-seven.vercel.app/" target="_blank">Live Demo</a>
 
 </td>
 </tr>
@@ -144,9 +144,9 @@
 <h2 align="left">🌐 Connect</h2>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/adhitya0403/"><img src="https://img.shields.io/badge/LinkedIn-Adhitya-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/adhitya0403/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Adhitya-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 &nbsp;&nbsp;&nbsp;
 <a href="mailto:darshanalaadhitya@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 &nbsp;&nbsp;&nbsp;
-<a href="https://adhitya-portfolio-beige.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="https://adhitya-portfolio-beige.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 </p>
